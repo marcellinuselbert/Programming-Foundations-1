@@ -1,4 +1,4 @@
 # Programming-Foundations-1
 
-These repository contents are lab and task in the programming foundation course
+These repository contents are labs and tasks in the programming foundation course
 
